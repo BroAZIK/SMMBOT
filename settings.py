@@ -1,0 +1,13 @@
+TOKEN="7495852745:AAFtjKrYltw9wwo0ZfR0yIgZYYfEfQb0JLQ"
+ADMIN_ID=5027127747
+LOGO_ID="AgACAgIAAxkBAAIDQmbUoVuASoKSeadowpvVJD2mu-QjAAID3jEbGkqgSiM5kIqX7h-7AQADAgADcwADNQQ"
+CHANNEL_ID="@Khujamov_SMM"
+CHANNEL_ID2="Khujamov_SMM"
+ALLOWED_ITEMS='''<b>
+-Video
+-Photo
+-Music
+-Document
+-Text
+</b>'''
+LOG_ID='@log2239572299invalid'
