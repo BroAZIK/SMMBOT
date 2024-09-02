@@ -1,5 +1,5 @@
 from telegram import Bot
-from .settings import *
+from settings import *
 
 bot = Bot(token=TOKEN)
 
