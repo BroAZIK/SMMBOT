@@ -12,7 +12,7 @@ from settings import *
 from details.handlers import *
 
 bot = Bot(token=TOKEN)
-dispatcher = Dispatcher
+dispatcher = Dispatcher(bot, None, workers=0)
 app = Flask(__name__)
 
 @app.route('/webhook', methods=['GET', "POST"])
